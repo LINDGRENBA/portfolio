@@ -1,5 +1,12 @@
 .jumbotron {
   background-color:rgba(192,108,132,0.4);
+  color: #355C7D;
+}
+
+p {
+  background-color: rgba(53,92,125,0.4);
+  padding: 20px;
+  border-radius: 5px;
 }
 
 .nav, h1, h2, h3, h4 {
@@ -18,11 +25,15 @@ hr {
   padding-top: 20px;
 }
 
+.top, .week, .nav li {
+  color: #6C5B7B;
+}
+
 .projects {
   padding: 20px;
 }
 
-div h3, .top {
+div h3 {
   padding-left: 10px;
 }
 
