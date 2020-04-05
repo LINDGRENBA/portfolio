@@ -42,12 +42,6 @@ div h3 {
 .top-img {
   width: 300px;
   height: auto;
-  /* margin-top: 50px;
-  margin-left: 20px; */
-}
-
-.about-me h4 {
-  /* margin-left: 20px; */
 }
 
 .float {
@@ -57,16 +51,22 @@ div h3 {
 }
 
 .about-content {
+  height: fit-content;
   padding: 0 20px;
   border: 2px solid rgba(192,108,132,0.4);
   border-radius: 5px;
 }
 
+.about-content p {
+  max-width: 550px;
+  background-color: rgba(248,177,149,0.2);
+}
+
 /* color scheme: https://digitalsynopsis.com/wp-content/uploads/2016/01/minimal-web-color-palettes-combination-hex-code-1.png */
-/* #F8B195
-#F67280
-#C06C84
-#6C5B7B
-#355C7D
+/* #F8B195 rgb(248, 177, 149)
+#F67280 rgb(246, 114, 128)
+#C06C84 rgb(192, 108, 132)
+#6C5B7B rgb(108, 91, 123)
+#355C7D rgb(53, 92, 125)
  */
 
