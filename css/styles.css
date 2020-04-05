@@ -37,6 +37,19 @@ div h3 {
   padding-left: 10px;
 }
 
+/* ABOUT ME PAGE */
+
+.top-img {
+  width: 300px;
+  height: auto;
+  margin-top: 50px;
+  margin-left: 20px;
+}
+
+.about-me h4 {
+  margin-left: 20px;
+}
+
 /* color scheme: https://digitalsynopsis.com/wp-content/uploads/2016/01/minimal-web-color-palettes-combination-hex-code-1.png */
 /* #F8B195
 #F67280
