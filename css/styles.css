@@ -1,0 +1,12 @@
+.top {
+  padding-top: 20px;
+}
+
+.projects {
+  padding: 20px;
+}
+
+div h3, .top {
+  padding-left: 10px;
+}
+
