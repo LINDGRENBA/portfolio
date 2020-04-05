@@ -1,5 +1,13 @@
+.jumbotron {
+  background-color:rgba(192,108,132,0.4);
+}
+
 .nav, h1, h2, h3, h4 {
   font-family: 'Josefin Sans', sans-serif;
+}
+
+hr {
+  border-top: 0.5px solid #2f4f4f;
 }
 
 .author, h4 {
@@ -17,4 +25,12 @@
 div h3, .top {
   padding-left: 10px;
 }
+
+/* color scheme: https://digitalsynopsis.com/wp-content/uploads/2016/01/minimal-web-color-palettes-combination-hex-code-1.png */
+/* #F8B195
+#F67280
+#C06C84
+#6C5B7B
+#355C7D
+ */
 
