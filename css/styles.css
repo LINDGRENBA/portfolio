@@ -1,3 +1,11 @@
+.nav, h1, h2, h3, h4 {
+  font-family: 'Josefin Sans', sans-serif;
+}
+
+.author, h4 {
+  font-weight: 300;
+}
+
 .top {
   padding-top: 20px;
 }
