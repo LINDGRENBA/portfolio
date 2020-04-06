@@ -13,6 +13,10 @@ p {
   font-family: 'Josefin Sans', sans-serif;
 }
 
+h4 {
+  color: #337ab7
+}
+
 hr {
   border-top: 0.5px solid #2f4f4f;
 }
