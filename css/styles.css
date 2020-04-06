@@ -62,6 +62,14 @@ div h3 {
   background-color: rgba(248,177,149,0.2);
 }
 
+.background {
+  background-color: rgba(248,177,149,0.2);
+}
+
+/* * {
+  border: 1px solid red;
+} */
+
 /* color scheme: https://digitalsynopsis.com/wp-content/uploads/2016/01/minimal-web-color-palettes-combination-hex-code-1.png */
 /* #F8B195 rgb(248, 177, 149)
 #F67280 rgb(246, 114, 128)
