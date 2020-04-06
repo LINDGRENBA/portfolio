@@ -66,6 +66,30 @@ div h3 {
   background-color: rgba(248,177,149,0.2);
 }
 
+@media screen and (max-width: 940px) {
+  .float {
+    margin: 10px 0;
+  }
+
+  .about-content p {
+    min-width: 550px;
+  }
+
+  div.float img, div.float h4 {
+    padding: 5px;
+  }
+}
+
+@media screen and (max-width: 776px) {
+  .float {
+    margin-right: 300px;
+  }
+
+  .about-content p {
+    min-width: 400px;
+  }
+}
+
 /* * {
   border: 1px solid red;
 } */

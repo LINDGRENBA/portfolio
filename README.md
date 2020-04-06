@@ -17,7 +17,7 @@ The purpose of this project is to practice utilizing all elements introduced in 
 
 ## Known Bugs
 
-About.html spacing is too large when viewport becomes smaller. Anticipate addition of media queries in future to correct spacing issues. 
+There are no known issues at this time. Previous issues with spacing and overflow have been resolved.
 
 ## Support and contact details
 
