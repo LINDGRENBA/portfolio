@@ -12,7 +12,7 @@ The purpose of this project is to practice utilizing all elements introduced in 
 
 * Clone this repository.
 * To view the code itself, open in a text editor such as VS Code or Atom, etc.
-* To view in your browser, double click on index.html and choose "open in browser" or go to the gh-pages location .
+* To view in your browser, double click on index.html and choose "open in browser" or go to the site on GitHub pages at https://lindgrenba.github.io/portfolio/index.html.
 * You should not need to run a server to view this document.
 
 ## Known Bugs
