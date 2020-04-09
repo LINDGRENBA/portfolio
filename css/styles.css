@@ -42,10 +42,6 @@ div h3 {
   padding-left: 10px;
 }
 
-/* STYLE LINKS .projects p a:link {
-  color: white;
-} */
-
 /* ABOUT ME PAGE */
 
 .top-img {
@@ -99,12 +95,8 @@ div h3 {
   }
 }
 
-/* * {
-  border: 1px solid red;
-} */
-
-/* color scheme: https://digitalsynopsis.com/wp-content/uploads/2016/01/minimal-web-color-palettes-combination-hex-code-1.png */
-/* #F8B195 rgb(248, 177, 149)
+/* color scheme: https://digitalsynopsis.com/wp-content/uploads/2016/01/minimal-web-color-palettes-combination-hex-code-1.png 
+#F8B195 rgb(248, 177, 149)
 #F67280 rgb(246, 114, 128)
 #C06C84 rgb(192, 108, 132)
 #6C5B7B rgb(108, 91, 123)
