@@ -7,6 +7,7 @@ p {
   background-color: rgba(53,92,125,0.4);
   padding: 20px;
   border-radius: 5px;
+  min-height: 200px;
 }
 
 .nav, h1, h2, h3, h4 {
@@ -40,6 +41,10 @@ hr {
 div h3 {
   padding-left: 10px;
 }
+
+/* STYLE LINKS .projects p a:link {
+  color: white;
+} */
 
 /* ABOUT ME PAGE */
 
